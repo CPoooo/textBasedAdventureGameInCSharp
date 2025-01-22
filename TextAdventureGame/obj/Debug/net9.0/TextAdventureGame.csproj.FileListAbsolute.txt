@@ -1,0 +1,14 @@
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.exe
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.deps.json
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.runtimeconfig.json
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.dll
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.pdb
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.AssemblyInfoInputs.cache
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.AssemblyInfo.cs
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.dll
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\refint\TextAdventureGame.dll
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.pdb
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.genruntimeconfig.cache
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\ref\TextAdventureGame.dll
