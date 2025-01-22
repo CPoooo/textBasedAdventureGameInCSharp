@@ -12,3 +12,4 @@ C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\De
 C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.pdb
 C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.genruntimeconfig.cache
 C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\ref\TextAdventureGame.dll
+C:\Users\camer\VS_Code_Personal_Stuff\TextAdventureGame\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.sourcelink.json
